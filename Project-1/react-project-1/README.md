@@ -5,7 +5,7 @@ A simple Nike landing page built using React and Vite.
 
 ## Output
 
-.react-project-1/Screenshots/output.png
+./Screenshots/output.png
 
 ## Features
 
@@ -57,4 +57,4 @@ npm run dev
 
 ## Author
 
-Your Name
+Made with :heart: by Sneha
